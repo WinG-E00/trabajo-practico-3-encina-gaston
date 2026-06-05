@@ -18,3 +18,4 @@ const obtenerPersonaje = async () => {
         console.log("Error en mi promesa")
     }
 };
+
